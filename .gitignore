@@ -1,0 +1,3 @@
+football.db
+__pycache__/
+.streamlit/secrets.toml
